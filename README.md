@@ -1,16 +1,34 @@
 ## Hi there 👋
+I'm Malika Harmaien 👋
 
-<!--
-**Malika26-08/Malika26-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Science Engineering Student  
+💻 Aspiring Software Developer  
+🌱 Learning Full Stack Development & AI/ML  
+🚀 Passionate about building real-world applications
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- Python
+- JavaScript
+- HTML & CSS
+- SQL
+- Machine Learning
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Study Time vs Marks Prediction
+Machine learning web application using Python, Streamlit, and Scikit-learn to predict student marks.
+
+### Urban Heat Hyperlocal Mapping
+Data analysis project focused on urban heat pattern visualization and environmental insights.
+
+## Currently Learning
+- Full Stack Development
+- Generative AI
+- Backend Development
+- Software Engineering Practices
+
+## Connect With Me
+- LinkedIn: linkedin.com/in/malika-harmaien-34551b283
+- Email: harmaienmalika@gmail.com
