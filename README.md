@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Malika Harmaien 👋
+I'm Malika Harmaien 
 
 🎓 Information Science Engineering Student  
 💻 Aspiring Software Developer  
