@@ -30,5 +30,6 @@ Data analysis project focused on urban heat pattern visualization and environmen
 - Software Engineering Practices
 
 ## Connect With Me
-- LinkedIn: linkedin.com/in/malika-harmaien-34551b283
+- LinkedIn: www.linkedin.com/in/malika-harmaien-34551b283
+
 - Email: harmaienmalika@gmail.com
