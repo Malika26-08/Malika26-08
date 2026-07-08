@@ -208,42 +208,15 @@ Python • Data Analysis • Geospatial Analytics
 
 # 📜 Certifications
 
+- Getting Started with Artificial Intelligence
+- Python for Data Science
 - Python Programming Internship
+- Cloud Computing Fundamentals
+- Cloud Computing Essentials 2026 Version
+- JavaScript By Example
 - Hack The Front
 - AWS Cloud Club – Parallax
 - AI & Machine Learning Workshops
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Malika26-08&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malika26-08&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Malika26-08&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Malika26-08&theme=algolia&margin-w=10"/>
-
-</p>
 
 ---
 
