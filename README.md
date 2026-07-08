@@ -1,35 +1,268 @@
-## Hi there 👋
-I'm Malika Harmaien 
+<h1 align="center">Hi 👋, I'm Malika Harmaien</h1>
 
-🎓 Information Science Engineering Student  
-💻 Aspiring Software Developer  
-🌱 Learning Full Stack Development & AI/ML  
-🚀 Passionate about building real-world applications
+<h3 align="center">🤖 AI & Machine Learning Enthusiast | Python Developer | Full Stack Learner | Generative AI Explorer</h3>
 
-## Skills
-- Java
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Malika26-08&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+🎓 **B.E. Information Science & Engineering**  
+🏫 Don Bosco Institute of Technology, Bengaluru  
+📊 **CGPA:** 8.93 / 10
+
+💡 I am passionate about building **AI-powered applications** that solve real-world problems. My interests include **Machine Learning, Generative AI, Full Stack Development, and Data Analysis**.
+
+🚀 I enjoy developing intelligent web applications using **Python, Streamlit, React, Node.js, and AI technologies**, while continuously learning emerging tools like **LLMs, AI Agents, and Prompt Engineering**.
+
+🌱 **Currently Learning**
+- 🤖 Generative AI
+- 🧠 AI Agents
+- 💬 Prompt Engineering
+- ⚛️ React.js
+- 🟢 Node.js
+- 🚀 Express.js
+- 🌐 Full Stack Development
+
+---
+
+# 💻 Technical Skills
+
+## 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,mysql" />
+</p>
+
 - Python
+- Java
 - JavaScript
-- HTML & CSS
-- SQL
+- SQL (MySQL)
+
+---
+
+## 🤖 Artificial Intelligence & Machine Learning
+
 - Machine Learning
-- GitHub
-
-## Projects
-
-### Study Time vs Marks Prediction
-Machine learning web application using Python, Streamlit, and Scikit-learn to predict student marks.
-
-### Urban Heat Hyperlocal Mapping
-Data analysis project focused on urban heat pattern visualization and environmental insights.
-
-## Currently Learning
-- Full Stack Development
 - Generative AI
+- Prompt Engineering
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- Data Analysis
+- Data Visualization
+
+---
+
+## 🌐 Web Technologies
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+</p>
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- React.js
+- Responsive Web Design
+
+---
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+- Node.js
+- Express.js
+- REST APIs
+
+---
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+- MySQL
+
+---
+
+### 🚀 Frameworks
+
+- Streamlit
+- VersAI
+---
+
+## 🛠 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+</p>
+
+- Git
+- GitHub
+- VS Code
+- Google AI studio
+- Visual Studio
+- Google Colab
+- Jupyter Notebook
+---
+
+## 📚 Core Concepts
+
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Machine Learning Fundamentals
+- Frontend Development
 - Backend Development
-- Software Engineering Practices
+- REST APIs
+- Software Development Lifecycle
+- Debugging
+- Problem Solving
+- Team Collaboration
 
-## Connect With Me
-- LinkedIn: www.linkedin.com/in/malika-harmaien-34551b283
+---
 
-- Email: harmaienmalika@gmail.com
+# 🚀 Featured Projects
+
+## 🏥 LifeBridge AI
+
+**AI-Powered Emergency Response & Assistance Platform**
+
+**Tech Stack**
+
+Python • Streamlit • Generative AI
+
+### Features
+
+- AI-powered emergency assistance
+- Intelligent chatbot
+- Emergency guidance
+- Interactive dashboard
+- User-friendly interface
+
+---
+
+## 🤖 Code Orbit AI
+
+**AI Coding Assistant**
+
+**Tech Stack**
+
+Python • Streamlit • Generative AI • Prompt Engineering
+
+### Features
+
+- Code generation
+- Debugging assistance
+- Programming explanations
+- AI chatbot
+- Technical Q&A
+
+---
+
+## 📈 Study Time vs Marks Prediction
+
+**Machine Learning Dashboard**
+
+**Tech Stack**
+
+Python • Streamlit • Scikit-learn • Pandas
+
+### Features
+
+- Predicts student marks
+- Interactive dashboard
+- Machine Learning model
+- Data visualization
+- Personalized study insights
+
+---
+
+## 🌍 Urban Heat Hyperlocal Mapping
+
+**Environmental Data Analysis Project**
+
+**Tech Stack**
+
+Python • Data Analysis • Geospatial Analytics
+
+### Features
+
+- Heat hotspot detection
+- Temperature trend analysis
+- Heatmap visualization
+- Environmental insights
+- Sustainable city recommendations
+
+---
+
+# 📜 Certifications
+
+- Python Programming Internship
+- Hack The Front
+- AWS Cloud Club – Parallax
+- AI & Machine Learning Workshops
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Malika26-08&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malika26-08&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Malika26-08&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Malika26-08&theme=algolia&margin-w=10"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+**harmaienmalika@gmail.com**
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/malika-harmaien
+
+💻 **GitHub**
+
+https://github.com/Malika26-08
+
+---
+
+<h3 align="center">
+⭐ "Building AI-powered solutions today for a smarter tomorrow."
+</h3>
