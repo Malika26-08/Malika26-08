@@ -1,241 +1,127 @@
-<h1 align="center">Hi 👋, I'm Malika Harmaien</h1>
+# Hi, I'm Malika Harmaien 👋
 
-<h3 align="center">🤖 AI & Machine Learning Enthusiast | Python Developer | Full Stack Learner | Generative AI Explorer</h3>
+### Aspiring AI Engineer | Machine Learning | Generative AI | LLMs | RAG | Python
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Malika26-08&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+I'm a B.E. Information Science and Engineering student at Don Bosco Institute of Technology, Bengaluru, passionate about building practical AI-powered solutions for real-world problems.
 
----
-
-## 👩‍💻 About Me
-
-🎓 **B.E. Information Science & Engineering**  
-🏫 Don Bosco Institute of Technology, Bengaluru  
-📊 **CGPA:** 8.93 / 10
-
-💡 I am passionate about building **AI-powered applications** that solve real-world problems. My interests include **Machine Learning, Generative AI, Full Stack Development, and Data Analysis**.
-
-🚀 I enjoy developing intelligent web applications using **Python, Streamlit, React, Node.js, and AI technologies**, while continuously learning emerging tools like **LLMs, AI Agents, and Prompt Engineering**.
-
-🌱 **Currently Learning**
-- 🤖 Generative AI
-- 🧠 AI Agents
-- 💬 Prompt Engineering
-- ⚛️ React.js
-- 🟢 Node.js
-- 🚀 Express.js
-- 🌐 Full Stack Development
+I enjoy working with Machine Learning, Generative AI, Large Language Models, RAG, Computer Vision, and AI application development.
 
 ---
 
-# 💻 Technical Skills
+## 🤖 What I Work With
 
-## 👨‍💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,mysql" />
-</p>
-
-- Python
-- Java
-- JavaScript
-- SQL (MySQL)
+- Artificial Intelligence & Machine Learning
+- Generative AI & Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- Computer Vision
+- MLOps & Model Monitoring
+- AI-powered Application Development
+- REST APIs & Backend Development
 
 ---
 
-## 🤖 Artificial Intelligence & Machine Learning
+## 🛠️ Technical Skills
 
-- Machine Learning
-- Generative AI
-- Prompt Engineering
-- Scikit-learn
-- Pandas
-- NumPy
-- Matplotlib
-- Data Analysis
-- Data Visualization
+### Languages
+Python • Java • JavaScript • SQL
 
----
+### AI / ML
+Machine Learning • Generative AI • LLMs • RAG • LangChain • Computer Vision • Scikit-learn
 
-## 🌐 Web Technologies
+### Frameworks & Tools
+FastAPI • Flask • Streamlit • React.js • Node.js • Pandas • NumPy • OpenCV
 
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
-</p>
-
-- HTML5
-- CSS3
-- JavaScript (ES6)
-- React.js
-- Responsive Web Design
+### Databases & Development
+MySQL • Git • GitHub • VS Code • Jupyter • Google Colab
 
 ---
 
-### ⚙️ Backend
+## 🚀 Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+### 🔹 AI-Based Online Exam Proctoring System
+Computer vision and deep learning based online exam monitoring system that detects abnormal activities such as eye movement, hand movement, mobile phone usage, side watching, and mouth opening.
 
-- Node.js
-- Express.js
-- REST APIs
+**Tech:** Python • OpenCV • Deep Learning • YOLOv5 • Streamlit
 
----
-
-### 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-- MySQL
+[View Project](https://github.com/Malika26-08/AI-Online-Exam-Proctoring)
 
 ---
 
-### 🚀 Frameworks
+### 🔹 LifeBridge AI
+AI-powered emergency response and disaster assistance platform designed to support emergency triage, medical assistance, shelter recommendations, resource coordination, and disaster response.
 
-- Streamlit
-- VersAI
----
+**Tech:** Next.js • FastAPI • Google Gemini • Multi-Agent AI
 
-## 🛠 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
-</p>
-
-- Git
-- GitHub
-- VS Code
-- Google AI studio
-- Visual Studio
-- Google Colab
-- Jupyter Notebook
----
-
-## 📚 Core Concepts
-
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Machine Learning Fundamentals
-- Frontend Development
-- Backend Development
-- REST APIs
-- Software Development Lifecycle
-- Debugging
-- Problem Solving
-- Team Collaboration
+[View Project](https://github.com/Malika26-08/LIFEBRIDGE-AI)
 
 ---
 
-# 🚀 Featured Projects
+### 🔹 CodeOrbit AI
+AI-powered GitHub Repository Intelligence Assistant that analyzes codebases, explains architecture, answers repository questions, generates documentation, and supports developer onboarding.
 
-## 🏥 LifeBridge AI
+**Tech:** Python • LangChain • OpenAI • RAG • FAISS • FastAPI • Streamlit
 
-**AI-Powered Emergency Response & Assistance Platform**
-
-**Tech Stack**
-
-Python • Streamlit • Generative AI
-
-### Features
-
-- AI-powered emergency assistance
-- Intelligent chatbot
-- Emergency guidance
-- Interactive dashboard
-- User-friendly interface
+[View Project](https://github.com/Malika26-08/Code_Orbit_AI)
 
 ---
 
-## 🤖 Code Orbit AI
+### 🔹 AI-Powered Model Monitoring System
+MLOps-based system for detecting data drift, monitoring machine learning models, and automatically retraining models to maintain prediction reliability.
 
-**AI Coding Assistant**
-
-**Tech Stack**
-
-Python • Streamlit • Generative AI • Prompt Engineering
-
-### Features
-
-- Code generation
-- Debugging assistance
-- Programming explanations
-- AI chatbot
-- Technical Q&A
+**Tech:** Python • Scikit-learn • Pandas • Flask • Streamlit
 
 ---
 
-## 📈 Study Time vs Marks Prediction
+### 🔹 Study Time vs Marks Prediction
+Machine Learning application that predicts academic performance based on study patterns and provides personalized study planning and analytics.
 
-**Machine Learning Dashboard**
-
-**Tech Stack**
-
-Python • Streamlit • Scikit-learn • Pandas
-
-### Features
-
-- Predicts student marks
-- Interactive dashboard
-- Machine Learning model
-- Data visualization
-- Personalized study insights
+**Tech:** Python • Scikit-learn • Pandas • NumPy • Streamlit • Plotly
 
 ---
 
-## 🌍 Urban Heat Hyperlocal Mapping
+### 🔹 Urban Heat Hyperlocal Mapping
+AI-based environmental analytics platform for identifying urban heat hotspots and generating location-based environmental insights.
 
-**Environmental Data Analysis Project**
-
-**Tech Stack**
-
-Python • Data Analysis • Geospatial Analytics
-
-### Features
-
-- Heat hotspot detection
-- Temperature trend analysis
-- Heatmap visualization
-- Environmental insights
-- Sustainable city recommendations
+**Tech:** Python • Streamlit • Data Analytics • Geospatial Analysis
 
 ---
 
-# 📜 Certifications
+## 🏆 Achievements
 
-- Getting Started with Artificial Intelligence
-- Python for Data Science
-- Python Programming Internship
-- Cloud Computing Fundamentals
-- Cloud Computing Essentials 2026 Version
-- JavaScript By Example
-- Hack The Front
-- AWS Cloud Club – Parallax
-- AI & Machine Learning Workshops
+- 🥇 1st Place – AWS Certification Challenge Quiz
+- 🥈 2nd Place – AI Prompt, Context & Harness Engineering Quiz
+- 🏅 Academic Excellence Award
+- 🏆 IBM Bob × lablab.ai Hackathon Participant
+- 📄 Research Publication – AI-Powered Model Monitoring System with Data Drift Detection and Automated Retraining for Machine Learning Model
 
 ---
 
-# 📫 Connect With Me
+## 📚 Certifications
 
-📧 **Email**
-
-**harmaienmalika@gmail.com**
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/malika-harmaien
-
-💻 **GitHub**
-
-https://github.com/Malika26-08
+- 5-Day AI Agents: Intensive Vibe Coding Course – Kaggle
+- Python Essentials (Fast Track) – Decoding Data Science
+- Getting Started with Artificial Intelligence – IBM SkillsBuild
+- Python Programming Internship – CodSoft
+- PARALLAX 2026 – AWS Cloud Club, DBIT
 
 ---
 
-<h3 align="center">
-⭐ "Building AI-powered solutions today for a smarter tomorrow."
-</h3>
+## 🌱 Currently Learning
+
+- Advanced Generative AI
+- Large Language Models
+- RAG Systems
+- Agentic AI
+- MLOps
+- AI Application Deployment
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/malika-harmaien/)
+- 💻 [GitHub](https://github.com/Malika26-08)
+
+---
+
+⭐ Feel free to explore my repositories and projects!
