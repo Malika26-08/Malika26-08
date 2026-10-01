@@ -1,6 +1,6 @@
 # Hi, I'm Malika Harmaien 👋
 
-### AI Engineer | Machine Learning | Generative AI | LLMs | RAG | Python
+### AI Engineer | Machine Learning | LLMs | RAG | Python
 
 I'm a B.E. Information Science and Engineering student at Don Bosco Institute of Technology, Bengaluru, passionate about building practical AI-powered solutions for real-world problems.
 
@@ -23,13 +23,13 @@ I enjoy working with Machine Learning, Generative AI, Large Language Models, RAG
 ## 🛠️ Technical Skills
 
 ### Languages
-Python • Java • JavaScript • SQL • C++
+Python • Java • JavaScript • SQL 
 
 ### AI / ML
-Machine Learning • Generative AI • LLMs • RAG • LangChain • Computer Vision • Scikit-learn
+Machine Learning • LLMs • RAG • LangChain • Computer Vision • Scikit-learn
 
 ### Frameworks & Tools
-FastAPI • Flask • Streamlit • React.js • Node.js • Pandas • NumPy • OpenCV
+FastAPI • Streamlit • React.js • Node.js • Pandas • NumPy • OpenCV
 
 ### Databases & Development
 MySQL • Git • GitHub • VS Code • Jupyter • Google Colab
@@ -112,7 +112,7 @@ AI-based environmental analytics platform for identifying urban heat hotspots an
 
 ## 🌱 Currently Exploring
 
-- Advanced Generative AI
+- Generative AI
 - Large Language Models
 - RAG Systems
 - Agentic AI
